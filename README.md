@@ -1,7 +1,7 @@
 ![MasterHead](https://img.freepik.com/free-vector/abstract-digital-technology-background-with-network-connection-lines_1017-25552.jpg?w=826&t=st=1669955949~exp=1669956549~hmac=166399acbb883a830725fe01af9c3574c5830acecac9b7a89f57b07f82626dec)
 <h1 align="center">Hi 👋, I'm Iran Nimesh</h1>
 <h3 align="center">A passionate Full stack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="cener" alt="Coding" width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
 
